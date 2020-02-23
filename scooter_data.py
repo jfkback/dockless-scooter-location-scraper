@@ -18,8 +18,8 @@ gauth.LocalWebserverAuth()
 drive = GoogleDrive(gauth)
 
 fid_lookup = {
-    'la_region': '1SaX_dgSllD9EKmNeoDKRGiRDwoFB7zu4',
-    'washington_dc': '1Xz7BKzOe92-33s41d7dfc-NUGCfb4n4g'
+    'la_region': '##############################',
+    'washington_dc': '##############################'
 }
 
 def get_scooter_data():
